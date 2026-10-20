@@ -1,1 +1,5 @@
 # computer-science-class
+So far it contains methods for:
+Password strength tester.
+Random number guessing game (represents binary search).
+Password generator based on criteria.
