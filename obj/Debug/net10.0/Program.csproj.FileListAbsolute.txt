@@ -12,3 +12,4 @@
 /home/conor/Documents/School/Computer_Science/Main/Program/obj/Debug/net10.0/Program.pdb
 /home/conor/Documents/School/Computer_Science/Main/Program/obj/Debug/net10.0/Program.genruntimeconfig.cache
 /home/conor/Documents/School/Computer_Science/Main/Program/obj/Debug/net10.0/ref/Program.dll
+/home/conor/Documents/School/Computer_Science/Main/Program/obj/Debug/net10.0/Program.sourcelink.json

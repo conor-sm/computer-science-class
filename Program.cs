@@ -14,7 +14,7 @@ namespace Program{
 
         static void Menu()
         {
-            Console.WriteLine("Choose program to do::\n1:: Password strength tester\n2:: Game/Search demonstration\n3:: Password Generator");
+            Console.WriteLine("Choose program to do::\n1:: Password strength tester\n2:: Game/Search demonstration\n3:: Password Generator\n4:: Patterns");
             int choice = Convert.ToInt32(Console.ReadLine());
 
             switch (choice)
@@ -25,11 +25,43 @@ namespace Program{
 
                 case 3: PasswordGenerator(); break;
 
+                case 4: Patterns(); break;
+
             }
+        }
+
+        static void Patterns()
+        {
+            Console.Clear();
+            Console.WriteLine("Stair Case Pattern:");
+
+            for (int i = 1; i<=5; i++)
+            {   
+                for (int j = 1; j <= i; j++)
+                {
+                    Console.Write("*");
+                }
+                Console.WriteLine();
+            }
+
+            Console.WriteLine("Reversed Stair Case Pattern:");
+
+            for (int i = 1; i<=5; i++)
+            {   
+                for (int j = i; j <= 5; j++)
+                {
+                    Console.Write("*");
+                }
+                Console.WriteLine();
+            }
+
+            Console.WriteLine("Pyramid Pattern");
+
         }
 
         static void Password()
         {
+            Console.Clear();
             char whitespace = ' ';
             int special_count = 0;
             int upper_count = 0;
@@ -93,7 +125,8 @@ namespace Program{
         }
 
         static void Game()
-        {
+        {   
+            Console.Clear();
             int guesses = 0;
             bool tf = false;
 
@@ -135,6 +168,7 @@ namespace Program{
 
         static int RandomNumber(int ifrom, int ito)
         {
+            Console.Clear();
             Random random = new Random();
             return random.Next(ifrom, ito);
         }
@@ -143,7 +177,7 @@ namespace Program{
         {
             //Requirements for password: Atleast 12 characters, 4 numbers, 4 special characters, 2 upper case, 2 lower case.
             //Formats password in UpperCase/Numbers/LowerCase/SpecialCharacters
-
+            Console.Clear();
             string password;
             string special_characters = "!£$%^&*()_+-=[]{};:@#~,./<>?|\"";
             string upper_case = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
