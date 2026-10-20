@@ -1,0 +1,14 @@
+/home/conor/Documents/School/Computer_Science/Main/Program/bin/Debug/net10.0/Program
+/home/conor/Documents/School/Computer_Science/Main/Program/bin/Debug/net10.0/Program.deps.json
+/home/conor/Documents/School/Computer_Science/Main/Program/bin/Debug/net10.0/Program.runtimeconfig.json
+/home/conor/Documents/School/Computer_Science/Main/Program/bin/Debug/net10.0/Program.dll
+/home/conor/Documents/School/Computer_Science/Main/Program/bin/Debug/net10.0/Program.pdb
+/home/conor/Documents/School/Computer_Science/Main/Program/obj/Debug/net10.0/Program.GeneratedMSBuildEditorConfig.editorconfig
+/home/conor/Documents/School/Computer_Science/Main/Program/obj/Debug/net10.0/Program.AssemblyInfoInputs.cache
+/home/conor/Documents/School/Computer_Science/Main/Program/obj/Debug/net10.0/Program.AssemblyInfo.cs
+/home/conor/Documents/School/Computer_Science/Main/Program/obj/Debug/net10.0/Program.csproj.CoreCompileInputs.cache
+/home/conor/Documents/School/Computer_Science/Main/Program/obj/Debug/net10.0/Program.dll
+/home/conor/Documents/School/Computer_Science/Main/Program/obj/Debug/net10.0/refint/Program.dll
+/home/conor/Documents/School/Computer_Science/Main/Program/obj/Debug/net10.0/Program.pdb
+/home/conor/Documents/School/Computer_Science/Main/Program/obj/Debug/net10.0/Program.genruntimeconfig.cache
+/home/conor/Documents/School/Computer_Science/Main/Program/obj/Debug/net10.0/ref/Program.dll
