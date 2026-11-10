@@ -7,3 +7,4 @@ Password strength tester.
 Random number guessing game (represents binary search).
 Password generator based on criteria.
 >>>>>>> refs/remotes/origin/main
+# StackVisual
